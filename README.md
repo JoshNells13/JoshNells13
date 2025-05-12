@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Calon Fullstack Developer | Suka Jelajahi Web & Aplikasi Desktop<br>Halo! Saya Joshua CL .<br>🔥 Sedang Belajar di React & Laravel untuk web, dan juga C# buat aplikasi desktop.<br>🎓 Masih terus belajar, tapi semangat terus buat upgrade skill & bikin proyek kece.<br>Ngoding itu seni + logika = seru banget!<br><br>
+💻 Calon Fullstack Developer | Suka Jelajahi Web & Aplikasi Desktop<br>Halo! Saya Joshua CL .<br>🔥 Sedang Belajar di React & Laravel untuk web, dan juga C# buat aplikasi desktop.<br>🎓 Masih terus belajar, tapi semangat terus buat upgrade skill & bikin proyek kece.<br>Ngoding itu seni + logika = Gacor Abiss!<br><br>
 
 
 ## 🌐 Socials:
