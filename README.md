@@ -2,6 +2,9 @@
 💻 Calon Fullstack Developer Or Sofware Developer | Suka Jelajahi Web & Aplikasi Desktop<br>Hola!! Saya Joshua CL .<br>🔥 Sedang Belajar di React & Laravel untuk web, dan juga C# buat aplikasi desktop.<br>🎓 Masih terus belajar, tapi semangat terus buat upgrade skill & bikin proyek kece.<br>Ngoding itu seni + logika = Gacor Abiss!<br><br>
 
 -Juara 1 Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Kota Palangka Raya 2025🥇
+
+
+
 -Juara 1 Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Provinsi Kalimantan Tengah 2025🥇
 
 ## 🌐 Socials:
