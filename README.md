@@ -1,6 +1,10 @@
 # 💫 About Me:
 💻 Calon Fullstack Developer Or Sofware Developer | Suka Jelajahi Web & Aplikasi Desktop<br>PPP Saya Joshua CL .<br>🔥
 
+
+-Medallion For Excellence Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Nasional 2025🎖️
+
+
 -Juara 1 Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Provinsi Kalimantan Tengah 2025🥇
 
 
