@@ -1,19 +1,6 @@
 # 💫 About Me:
 💻 Calon Fullstack Developer Or Sofware Developer | Suka Jelajahi Web & Aplikasi Desktop<br>PPP Saya Joshua CL .<br>🔥
 
-
--Medallion For Excellence Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Nasional 2025🎖️
-
-
--Juara 1 Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Provinsi Kalimantan Tengah 2025🥇
-
-
-
--Juara 1 Lomba Kompetensi Siswa (LKS) Bidang Web Technologies Tingkat Kota Palangka Raya 2025🥇
-
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@joshuaffmax) 
 
