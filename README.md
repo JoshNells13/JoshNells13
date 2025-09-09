@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Calon Fullstack Developer Or Sofware Developer | Suka Jelajahi Web & Aplikasi Desktop<br>PPP Saya Joshua CL .<br>🔥
+💻 Calon Fullstack Developer Or Sofware Developer.<br>🔥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@joshuaffmax) 
