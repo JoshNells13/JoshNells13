@@ -1,4 +1,4 @@
-# 🧑‍💻 Joshua Christian Lionel!!!
+# 🧑‍💻 Halo Saya👋Joshua Christian Lionel!!
 
 # 💫 About Me:
 💻 Calon Fullstack Developer Or Sofware Developer.<br>🔥
