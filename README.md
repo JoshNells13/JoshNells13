@@ -31,7 +31,7 @@
 
   <br/>
 
-  <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,laravel,bootstrap,tailwind&languages=html,css,js,php,cs&theme=tokyonight" alt="Skill Overview" width="80%" />
+ 
 
 </div>
 
