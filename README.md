@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#38bdf8;">Joshua</span> aka <strong>JoshNells13</strong> 🚀</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#38bdf8;">Joshua Christian Lionel</span> aka <strong>Lotzz</strong> 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Fullstack+Developer+from+Indonesia;SMK+RPL+Student;Laravel+%26+React+Enthusiast;Let's+Build+Something+Cool!">
@@ -8,7 +8,7 @@
 
 ### 💡 About Me  
 🌍 From **Indonesia**  
-🎓 Student at **SMK Rekayasa Perangkat Lunak**  
+🎓 Student at **SMKN 1 Palangka Raya,Major Software Engineering**  
 🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist  
 💻 I love building **Fullstack Web Apps** using modern frameworks  
 ⚡ Passionate about **clean code**, **UI design**, and **problem solving**
@@ -47,7 +47,6 @@
 <p align="center">
   <a href="https://github.com/JoshNells13"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:joshua@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -62,5 +61,4 @@
 
 ---
 
-### ✨ Motto
-> “KerjainAjaa — Karena menunda cuma bikin numpuk, bukan selesai.” 😎
+
