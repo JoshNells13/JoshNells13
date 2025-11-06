@@ -37,11 +37,6 @@
 
 ---
 
-### 🎨 Animated Tech Stack Display  
-
-<p align="center">
-  <img src="https://github.com/JoshNells13/JoshNells13/assets/your-image-id/techstack.gif" width="600px" alt="Animated tech stack"/>
-</p>
 
 ---
 
