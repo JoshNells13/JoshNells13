@@ -51,13 +51,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoshNells13&theme=onedark&no-frame=true&margin-w=10&row=1"/>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshNells13&label=Profile+Views&color=38bdf8&style=flat-square" alt="profile views"/>
-</p>
 
 ---
 
