@@ -26,7 +26,7 @@
 
   <h3>⚙️ Frameworks & Tools</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,mysql" alt="Frameworks and Tools" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,mysql,nodejs" alt="Frameworks and Tools" />
   </p>
 
   <br/>
