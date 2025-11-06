@@ -1,24 +1,66 @@
-# 🧑‍💻 Halo Saya👋Joshua Christian Lionel!!
+<h1 align="center">👋 Hi there, I'm <span style="color:#38bdf8;">Joshua</span> aka <strong>JoshNells13</strong> 🚀</h1>
 
-# 💫 About Me:
-💻 Calon Fullstack Developer Or Sofware Developer.<br>🔥
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@joshuaffmax) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-# 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=joshnells13&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshnells13&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Fullstack+Developer+from+Indonesia;SMK+RPL+Student;Laravel+%26+React+Enthusiast;Let's+Build+Something+Cool!">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joshnells13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💡 About Me  
+🌍 From **Indonesia**  
+🎓 Student at **SMK Rekayasa Perangkat Lunak**  
+🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist  
+💻 I love building **Fullstack Web Apps** using modern frameworks  
+⚡ Passionate about **clean code**, **UI design**, and **problem solving**
+
+---
+
+### 🧠 Tech Stack & Skills  
+
+#### 🏗️ Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshNells13&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshNells13&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/JoshNells13"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:joshua@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoshNells13&theme=onedark&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoshNells13&label=Profile+Views&color=38bdf8&style=flat-square" alt="profile views"/>
+</p>
+
+---
+
+### ✨ Motto
+> “KerjainAjaa — Karena menunda cuma bikin numpuk, bukan selesai.” 😎
