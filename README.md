@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#38bdf8;">Joshua Christian Lionel</span> aka <strong>Lotzz</strong> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Fullstack+Developer+from+Indonesia;SMK+RPL+Student;Laravel+%26+React+Enthusiast;Let's+Build+Something+Cool!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Calon+Fullstack+Developer+from+Indonesia;SMK+RPL+Student;Laravel+%26+React+Enthusiast;Let's+Build+Something+Cool!">
 </p>
 
 ---
@@ -44,7 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshNells13&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshNells13&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
