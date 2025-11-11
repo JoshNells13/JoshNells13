@@ -21,7 +21,7 @@
   
   <h3>🏗️ Languages</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,python" alt="Languages" />
   </p>
 
   <h3>⚙️ Frameworks & Tools</h3>
