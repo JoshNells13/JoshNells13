@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Otw+Fullstack+Developer+from+Indonesia;SMK+RPL+Student;Laravel+%26+React+Enthusiast;Let's+Build+Something+Cool!;Still+Learning">
 </p>
 
+
+
 ---
 
 ### 💡 About Me  
@@ -26,7 +28,12 @@
 
   <h3>⚙️ Frameworks & Tools</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,mysql,nodejs,net" alt="Frameworks and Tools" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,mysql,nodejs,net,vercel" alt="Frameworks and Tools" />
+  </p>
+
+  <h3>🛠️ Editor</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="editor" />
   </p>
 
   <br/>
