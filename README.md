@@ -31,10 +31,6 @@
     <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,mysql,nodejs,net,vercel" alt="Frameworks and Tools" />
   </p>
 
-  <h3>🛠️ Editor</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="editor" />
-  </p>
 
   <br/>
 
