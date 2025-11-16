@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshNells13&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streaks.vercel.app/api?username=JoshNells13&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshNells13&layout=compact&theme=radical" />
 
 </p>
