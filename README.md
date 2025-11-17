@@ -44,7 +44,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoshNells13&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshNells13&layout=compact&theme=radical" alt="GitHub Stats" height="165" />
 
 </p>
