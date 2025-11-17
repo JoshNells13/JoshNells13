@@ -8,12 +8,10 @@
 
 ---
 
-### 💡 About Me  
-🌍 From **Indonesia**  
+### 💡 About Me   
 🎓 Student at **SMKN 1 Palangka Raya,Major Software Engineering**  
 🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist 2025  
-💻 Building **Fullstack Web Apps** using modern frameworks  
-⚡ Passionate about **clean code**, **UI design**, and **problem solving**
+
 
 ---
 
