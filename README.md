@@ -10,7 +10,10 @@
 
 ### 💡 About Me   
 🎓 Student at **SMKN 1 Palangka Raya,Major Software Engineering**  
-🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist 2025  
+🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist 2025 
+
+### 💡 My Portfolio
+https://portfolio-joshua-one.vercel.app/ 
 
 
 ---
