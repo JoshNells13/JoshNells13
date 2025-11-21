@@ -48,7 +48,6 @@ https://portfolio-joshua-one.vercel.app/
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshNells13&layout=compact&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=JoshNells13"/>
 </p>
 
 ---
