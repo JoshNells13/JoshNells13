@@ -13,7 +13,7 @@
 🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist 2025 
 
 ### 💡 My Portfolio
-https://portfolio-joshua-one.vercel.app/ 
+https://www.joshuachristian.sbs/
 
 
 ---
