@@ -13,7 +13,7 @@
 🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist 2025 
 
 ### 💡 My Portfolio
-https://www.joshuachristian.sbs/
+https://joshuachristian.sbs/
 
 
 ---
