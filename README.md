@@ -3,14 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Calon+Fullstack+Developer;vibe+coder+xixixixi;SMK+RPL+Student;Laravel+%26+React+Enthusiast;Jomblo+sejati!;Still+Learning">
 </p>
-
-
-
----
-
-### 💡 About Me   
-🎓 Student at **SMKN 1 Palangka Raya,Major Software Engineering**  
-🏆 **LKS Web Technologies Champion (Kalimantan Tengah)** & National Finalist 2025 
+ 
 
 ### 💡 My Portfolio
 https://joshuachristian.sbs/
@@ -39,14 +32,6 @@ https://joshuachristian.sbs/
 
 </div>
 
----
-
-
----
-
-
-
----
 
 ### 🌐 Let's Connect
 
