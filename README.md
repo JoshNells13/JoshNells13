@@ -17,13 +17,12 @@
 ## 📌 What I Do
 - Develop frontend & backend web applications
 - Build RESTful APIs
-- Design and manage databases
 - Learn through real projects and competitions
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Laravel & React
+- Learning Laravel & React
 - Clean Architecture & Best Practices
 - Preparing for future studies and tech competitions
 
