@@ -1,4 +1,4 @@
-# Hi, I'm Joshua 👋
+# Hi, I'm Joshua Christian Lionel 
 
 💻 Software Developer Student | SMK RPL  
 🚀 Focused on Full Stack Web Development & Software Engineering  
@@ -30,7 +30,8 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/username
+- GitHub: https://github.com/Joshnells13
+- Instagram: https://www.instagram.com/joshuaffmax 
 
 ---
 
