@@ -1,46 +1,49 @@
-<h1 align="center"> Hi there, I'm <span style="color:#38bdf8;">Joshua Christian Lionel</span> aka <strong>Lotzz</strong> </h1>
+# Hi, I'm Joshua Christian Lionel👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Calon+Fullstack+Developer;vibe+coder+xixixixi;SMKN+1+PALANGKA+RAYA+STUDENT;Jomblo+sejati!;Still+Learning">
-</p>
- 
-
-### 💡 My Portfolio
-https://joshuachristian.sbs/
-
+💻 Software Developer Student | SMK RPL Student
+🚀 Interested in Full Stack Web Development & Software Engineering  
+🎯 Focused on building clean, functional, and scalable applications
 
 ---
 
-### 🧠 Tech Stack & Skills  
+## 🛠 Tech Stack
 
-<div align="center">
-  
-  <h3>🏗️ Languages</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,python" alt="Languages" />
-  </p>
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
 
-  <h3>⚙️ Frameworks & Tools</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,mysql,nodejs" alt="Frameworks and Tools" />
-  </p>
+**Backend**
+- PHP
+- Laravel
+- Node.js
+- Python
+- C#
 
-
-  <br/>
-
- 
-
-</div>
-
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/JoshNells13"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/joshuaffmax"><img src="https://img.shields.io/badge/Instagram-0077B5?logo=Instagram&logoColor=white"></a>
-</p>
+**Database**
+- MySQL
 
 ---
 
+## 📌 What I Do
+- Build web applications (frontend & backend)
+- Create RESTful APIs
+- Work with databases and system logic
+- Learn and improve through real projects & competitions
 
+---
+
+## 🌱 Currently Learning
+- Advanced Laravel & React
+- Software architecture & clean code
+- Preparing for higher-level competitions and future studies
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/username
+
+---
+
+> *Code with logic, build with purpose.*
