@@ -1,43 +1,31 @@
-# Hi, I'm Joshua Christian Lionel👋
+# Hi, I'm Joshua 👋
 
-💻 Software Developer Student | SMK RPL Student
-🚀 Interested in Full Stack Web Development & Software Engineering  
-🎯 Focused on building clean, functional, and scalable applications
+💻 Software Developer Student | SMK RPL  
+🚀 Focused on Full Stack Web Development & Software Engineering  
+🎯 Build things that work, scale, and make sense
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React
-
-**Backend**
-- PHP
-- Laravel
-- Node.js
-- Python
-- C#
-
-**Database**
-- MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,laravel,react,nodejs,mysql" />
+</p>
 
 ---
 
 ## 📌 What I Do
-- Build web applications (frontend & backend)
-- Create RESTful APIs
-- Work with databases and system logic
-- Learn and improve through real projects & competitions
+- Develop frontend & backend web applications
+- Build RESTful APIs
+- Design and manage databases
+- Learn through real projects and competitions
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced Laravel & React
-- Software architecture & clean code
-- Preparing for higher-level competitions and future studies
+- Clean Architecture & Best Practices
+- Preparing for future studies and tech competitions
 
 ---
 
@@ -46,4 +34,4 @@
 
 ---
 
-> *Code with logic, build with purpose.*
+> *Simple code. Strong logic. Real impact.*
