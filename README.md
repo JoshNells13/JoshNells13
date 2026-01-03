@@ -1,9 +1,5 @@
 # Hi, I'm Joshua Christian Lionel 
 
-💻 Software Engineering Student |  
-🚀 Focused on Full Stack Web Development & Software Engineering  
-🎯 Build things that work, scale, and make sense
-
 🧑‍💼 My Portfolio https://joshuachristian.sbs
 
 ---
