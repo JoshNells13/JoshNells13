@@ -1,7 +1,7 @@
 # Hi, I'm Joshua Christian Lionel 
 
 Portfolio gwehh
-shttps://joshuachristian.sbs
+https://joshuachristian.sbs
 
 ---
 
