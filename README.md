@@ -1,6 +1,7 @@
 # Hi, I'm Joshua Christian Lionel 
 
-🧑‍💼 My Portfolio https://joshuachristian.sbs
+Portfolio gwehh
+shttps://joshuachristian.sbs
 
 ---
 
