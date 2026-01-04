@@ -26,7 +26,7 @@
         <links>
             <portfolio url="https://joshuachristian.sbs" />
             <github url="https://github.com/Joshnells13" />
-            <instagram url="https://www.instagram.com/joshuaffmax" />
+            <instagram url="https://www.instagram.com/joshuachriis" />
         </links>
 
         <quote>
