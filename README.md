@@ -1,10 +1,10 @@
 <joshua>
-    <head>
-        <role>Full Stack Web Developer</role>
-    </head>
+
 
     <body>
-        <title>Joshua Christian Lionel</title>
+         <head>
+            <title>Joshua Christian Lionel</title>
+        </head>
         <about>
             Focused On Fullstack Developer
         </about>
