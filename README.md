@@ -1,21 +1,35 @@
-# Hi, I'm Joshua Christian Lionel 
+<joshua>
+    <head>
+        <title>Joshua Christian Lionel</title>
+        <role>Full Stack Web Developer</role>
+    </head>
 
-Portfolio gwehh
-https://joshuachristian.sbs
+    <body>
+        <about>
+           Focused On Fullstack Developer
+        </about>
+        <stack>
+            <frontend>HTML, CSS, JavaScript, React JS, Tailwind CSS</frontend>
+            <backend>PHP, Laravel, Node.js</backend>
+            <database>MySQL, SQL Server</database>
+            <other>C#, Python</other>
+        </stack>
 
----
+        <projects>
+            <type>Full Stack Web Applications</type>
+            <type>REST API</type>
+            <type>Admin Dashboard</type>
+            <type>Desktop Applications</type>
+        </projects>
 
-## 🛠 Tech Stack
+        <links>
+            <portfolio url="https://joshuachristian.sbs" />
+            <github url="https://github.com/Joshnells13" />
+            <instagram url="https://www.instagram.com/joshuaffmax" />
+        </links>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,laravel,react,nodejs,mysql" />
-</p>
-
-
-## 📫 Contact
-- GitHub: https://github.com/Joshnells13
-- Instagram: https://www.instagram.com/joshuaffmax 
-
----
-
-> *Simple code. Strong logic. Real impact.*
+        <quote>
+            Simple code. Strong logic. Real impact.
+        </quote>
+    </body>
+</joshua>
