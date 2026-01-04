@@ -1,9 +1,4 @@
 <joshua>
-    <head>
-        <title>Joshua Christian Lionel</title>
-        <role>Full Stack Web Developer</role>
-    </head>
-
     <body>
         <about>
            Focused On Fullstack Developer
