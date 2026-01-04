@@ -16,13 +16,6 @@
             <other>C#, Python</other>
         </stack>
 
-        <projects>
-            <type>Full Stack Web Applications</type>
-            <type>REST API</type>
-            <type>Admin Dashboard</type>
-            <type>Desktop Applications</type>
-        </projects>
-
         <links>
             <portfolio url="https://joshuachristian.sbs" />
             <github url="https://github.com/Joshnells13" />
