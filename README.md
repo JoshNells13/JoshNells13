@@ -3,7 +3,7 @@
 
     <body>
          <head>
-            <title>Joshua Christian Lionel</title>
+            <title>Joshua Christian Lionel Or whatever</title>
         </head>
         <about>
             Focused On Fullstack Developer
