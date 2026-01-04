@@ -1,8 +1,14 @@
 <joshua>
+    <head>
+        <title>Joshua Christian Lionel</title>
+        <role>Full Stack Web Developer</role>
+    </head>
+
     <body>
         <about>
-           Focused On Fullstack Developer
+            Focused On Fullstack Developer
         </about>
+
         <stack>
             <frontend>HTML, CSS, JavaScript, React JS, Tailwind CSS</frontend>
             <backend>PHP, Laravel, Node.js</backend>
