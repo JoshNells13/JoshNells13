@@ -1,30 +1,18 @@
 <joshua>
-    <head>
-        <title>Joshua Christian Lionel</title>
-    </head>
-
+    
     <body>
+         <head>
+            <title>Joshua Christian Lionel Or whatever</title>
+        </head>
         <about>
-            Focused On Fullstack Developer.
-            Passionate about building scalable, clean, and modern web applications.
+            Focused On Fullstack Developer
         </about>
 
         <stack>
-            <frontend>
-                HTML, CSS, JavaScript, React JS, Tailwind CSS
-            </frontend>
-
-            <backend>
-                PHP, Laravel, Node.js
-            </backend>
-
-            <database>
-                MySQL, SQL Server
-            </database>
-
-            <other>
-                C#, Python
-            </other>
+            <frontend>HTML, CSS, JavaScript, React JS, Tailwind CSS</frontend>
+            <backend>PHP, Laravel, Node.js</backend>
+            <database>MySQL, SQL Server</database>
+            <other>C#, Python</other>
         </stack>
 
         <links>
