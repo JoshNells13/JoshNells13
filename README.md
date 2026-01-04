@@ -1,6 +1,5 @@
 <joshua>
-
-
+    
     <body>
          <head>
             <title>Joshua Christian Lionel Or whatever</title>
@@ -21,9 +20,5 @@
             <github url="https://github.com/Joshnells13" />
             <instagram url="https://www.instagram.com/joshuachriis" />
         </links>
-
-        <quote>
-            Simple code. Strong logic. Real impact.
-        </quote>
     </body>
 </joshua>
