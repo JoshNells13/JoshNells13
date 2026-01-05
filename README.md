@@ -1,6 +1,5 @@
 ```xml
 <joshua>
-    
     <body>
          <head>
             <title>Joshua Christian Lionel Or whatever</title>
