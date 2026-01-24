@@ -12,17 +12,6 @@
 </p>
 
 ---
-
-## About Me
-
-🎓 **Student at SMKN 1 Palangka Raya**  
-📚 **Major:** Software Engineering  
-💻 **Focus:** Fullstack Developer  
-🎯 **Goal:** Build scalable, clean, and impactful applications  
-⚡ Fun fact: Lebih Lama Scrool Tiktok dan Fesbuk DariPada Ngoding Nya..
-
----
-
 ## 🧠 Tech Stack
 
 ### 🎨 Frontend
