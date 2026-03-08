@@ -16,7 +16,7 @@
         </stack>
 
         <links>
-            <portfolio url="https://joshuachristian.sbs" />
+            <portfolio url="https://joshuachristianlionel.com" />
             <github url="https://github.com/Joshnells13" />
         </links>
     </body>
