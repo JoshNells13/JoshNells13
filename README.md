@@ -5,14 +5,14 @@
             <title>Joshua Christian Lionel Or whatever</title>
         </head>
         <about>
-            Focused On Fullstack Developer
+            Focused On Fullstack Developer or life..
         </about>
 
         <stack>
-            <frontend>HTML, CSS, JavaScript,TypeScript,React,Next JS,Tailwind CSS</frontend>
-            <backend>PHP, Laravel, Node.js</backend>
-            <database>MySQL, SQL Server,Postgresql</database>
-            <other>C#, Python</other>
+            <web>Laravel,Next Js,Vue.js,React,Tailwind,Bootstrap</web>
+            <android>Kotlin</android>
+            <database>Mysql,Postgresql,FireBase</database>
+            <other>Docker</other>
         </stack>
 
         <links>
